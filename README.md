@@ -138,7 +138,7 @@ Build Cleandata from the source and intsall dependencies:
 1. **Clone the repository:**
 
     ```sh
-    ❯ git clone ../Cleandata
+    ❯ git clone https://github.com/Abdelrahman-Shamikh/Data_Cleaning.git
     ```
 
 2. **Navigate to the project directory:**
