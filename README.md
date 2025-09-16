@@ -101,7 +101,15 @@ This project demonstrates a comprehensive data cleaning workflow for student aca
 			</thead>
 				<tr style='border-bottom: 1px solid #eee;'>
 					<td style='padding: 8px;'><b><a href='Cleandata/blob/master/Cleaning Data.ipynb'>Cleaning Data.ipynb</a></b></td>
-					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
+					<td style='padding: 8px;'>Jupyter notebook containing the full data cleaning workflow.</td>
+				</tr>
+				<tr style='border-bottom: 1px solid #eee;'>
+					<td style='padding: 8px;'><b><a href='Cleandata/blob/master/cleaned_data.csv'>cleaned_data.csv</a></b></td>
+					<td style='padding: 8px;'>Final cleaned dataset after preprocessing.</td>
+				</tr>
+				<tr style='border-bottom: 1px solid #eee;'>
+					<td style='padding: 8px;'><b><a href='Cleandata/tree/master/image'>image/</a></b></td>
+					<td style='padding: 8px;'>Assets folder containing project visuals (e.g., <code>datacleaning.jpg</code>).</td>
 				</tr>
 			</table>
 		</blockquote>
