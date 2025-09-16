@@ -5,7 +5,7 @@
 
 <img src=".\image\datacleaning.jpg" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
 
-# CLEANDATA
+# DATA CLEANING PROJECT
 
 <em></em>
 
@@ -80,6 +80,7 @@ This project demonstrates a comprehensive data cleaning workflow for student aca
 └── Cleandata/
     ├── Cleaned_data.csv
     └── Cleaning Data.ipynb
+    └── image/
 ```
 
 ### Project Index
