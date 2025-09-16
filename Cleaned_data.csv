@@ -1,0 +1,78 @@
+fNAME,lNAME,Age,gender,country,residence,entryEXAM,prevEducation,studyHOURS,Python,DB
+Christina,Binger,44,female,norway,Private,72,master,15,59,55
+Alex,Walekhwa,60,male,kenya,Private,79,diploma,15,60,75
+Philip,Leo,25,male,uganda,Sognsvann,55,high school,13,74,50
+Shoni,Hlongwane,22,female,south africa,Sognsvann,40,high school,12,75,44
+Maria,Kedibone,23,female,south africa,Sognsvann,65,high school,12,91,80
+Hannah,Hansen,25,female,norway,BI Residence,66,high school,13,88,59
+Ole,Johansen,27,male,norway,BI Residence,90,bachelor,15,80,91
+Lars,Olsen,29,male,norway,BI Residence,89,bachelor,16,85,60
+Bjørn,Larsen,31,male,norway,BI Residence,88,bachelor,15,80,89
+Sofie,Jensen,33,female,denmark,BI Residence,85,bachelor,16,83,90
+Emma,de Vries,34,female,netherlands,BI Residence,65,bachelor,15,79,58
+Solveig,Eliassen,36,female,norway,Private,70,diploma,15,80,55
+Odd,Knudsen,38,male,norway,Private,91,diploma,15,85,99
+Grethe,Myklebust,40,female,norway,Private,77,diploma,14,70,76
+Marco,Rossi,42,male,italy,Private,80,bachelor,15,75,77
+Ingrid,Eide,43,female,norway,Private,81,bachelor,15,80,82
+Hanna,Andresen,45,female,norway,Private,85,bachelor,15,87,82
+Jorunn,Eliassen,47,female,norway,Private,86,bachelor,15,80,78
+Sebastian,Kristiansen,48,male,norway,Private,75,bachelor,14,76,73
+Camilla,Mikkelsen,50,female,norway,Private,95,master,16,84,90
+Prof,Birkeland,22,male,norway,BI Residence,45,high school,11,33,30
+Hanna,Isaksen,24,female,norway,BI Residence,50,high school,11,30,50
+Kristine,Berg,26,female,norway,BI Residence,55,high school,14,61,56
+Carmen,Rodríguez,28,female,spain,BI Residence,78,bachelor,15,80,55
+Odd,Ahmed,30,male,norway,BI Residence,82,bachelor,15,82,65
+Gunnar,Brekke,32,male,norway,BI Residence,81,bachelor,15,85,83
+Gerd,Bakken,35,female,norway,BI Residence,92,master,16,87,88
+Aisha,Nakaweesi,37,female,uganda,Private,55,diploma,14,66,58
+Kato,Muwanguzi,39,male,uganda,Private,80,bachelor,15,81,69
+Nansubuga,Nakalema,41,female,uganda,Private,86,bachelor,15,81,91
+Joakim,Edvardsen,44,male,norway,Private,78,diploma,15,80,79
+Don,Pettersen,46,male,norway,Private,76,diploma,15,85,45
+Perry,Rønning,71,female,norway,Private,30,doctorate,12,31,42
+Frank,Abrahamsen,23,male,norway,BI Residence,68,high school,15,75,70
+Line,Næss,25,female,norway,BI Residence,98,high school,16,90,90
+Thor,Sandvik,27,male,norway,BI Residence,85,bachelor,15,84,90
+Petter,Ellingsen,29,male,norway,BI Residence,75,diploma,15,81,74
+Sindre,Hansen,31,male,norway,BI Residence,95,bachelor,15,87,99
+Simen,Myhre,33,female,norway,BI Residence,50,diploma,14,69,33
+Bjørg,Fredriksen,35,male,norway,BI Residence,68,diploma,13,60,78
+Trond,Karlsen,37,female,norway,Private,45,bachelor,14,57,50
+Emily,Thompson,39,female,united kingdom,Private,90,master,15,85,74
+Unni,Jacobsen,41,female,norway,Private,90,master,15,80,83
+Grethe,Brekke,43,female,norway,Private,96,master,15,87,92
+Ruth,Pedersen,45,female,norway,Private,95,master,16,88,86
+Inger,Jensen,47,male,norway,Private,89,doctorate,16,86,60
+Peninah,Andresen,22,female,norway,BI Residence,78,high school,14,78,74
+Berit,Eide,24,female,norway,BI Residence,54,high school,13,57,50
+Jenny,Kristoffersen,26,female,norway,BI Residence,68,high school,12,48,62
+Thea,Knutsen,28,male,norway,BI Residence,69,high school,12,45,70
+Dag,Arnesen,30,male,norway,BI Residence,95,diploma,16,90,89
+Mwanaidi,Ali,32,female,somalia,BI Residence,82,bachelor,15,84,59
+Bjørn,Pedersen,21,female,norway,BI Residence,70,high school,13,69,47
+Chinedu,Morison,36,male,nigeria,Private,28,diploma,12,15,67
+Irene,Strømertan,38,female,norway,Private,80,master,15,84,50
+Chinedu,Okafor,69,male,nigeria,Private,94,doctorate,16,87,88
+Marianne,Ruud,42,male,norway,Private,91,doctorate,15,84,82
+Jens,Lunde,25,male,norway,BI Residence,90,high school,15,81,100
+Morten,Olsen,46,female,norway,Private,94,doctorate,16,90,77
+Karoline,Ahmed,26,female,norway,BI Residence,76,high school,15,84,61
+Ola,Bakke,50,female,norway,Private,81,bachelor,15,87,46
+Tore,Abrahamsen,22,female,norway,BI Residence,73,high school,14,70,55
+Caroline,Narocho,23,female,norway,BI Residence,90,high school,16,87,73
+Silvia,Berg,25,female,norway,BI Residence,81,high school,15,85,46
+Valentino,Ojiambo,27,male,kenya,Sognsvann,85,bachelor,15,84,68
+Peter,Kubebea,29,male,kenya,Sognsvann,83,bachelor,15,81,67
+Anna,Müller,31,female,germany,Sognsvann,89,master,16,87,61
+Lucas,Schmidt,33,male,germany,Sognsvann,98,master,16,87,86
+Marie,Dubois,35,female,france,Sognsvann,69,bachelor,14,69,45
+Thomas,García,37,male,spain,Private,80,bachelor,15,78,62
+Emma,Janssen,39,female,netherlands,Private,81,master,16,80,71
+Maximilan,Martini,50,male,italy,Private,74,master,14,63,60
+Clara,Bernard,43,female,france,Private,80,bachelor,15,75,43
+Julian,Nielsen,31,male,denmark,Sognsvann,90,master,15,84,83
+Sophie,Brown,33,female,united kingdom,Sognsvann,96,master,15,85,90
+Leon,Bauer,35,male,germany,Sognsvann,90,master,16,87,74
+Mohammed,Salim,31,male,somalia,Sognsvann,35,master,14,72,90
