@@ -3,13 +3,18 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img src=".\image\datacleaning.jpg" width="30%" alt="Project Logo"/>
+<img src=".\image\datacleaning.jpg" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
 
 # CLEANDATA
 
-> 🧹 A comprehensive data cleaning and preprocessing pipeline for **student academic data**  
-<br>
-> 🔧 Built with: Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook  
+<em></em>
+
+<!-- BADGES -->
+<!-- local repository, no metadata badges. -->
+
+<em> A comprehensive data cleaning and preprocessing pipeline for student academic data</em>
+
+<em>Built with: Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook</em>
 
 </div>
 <br>
@@ -27,8 +32,9 @@
    - [Usage](#usage)  
 5. [Testing](#testing)  
 6. [Data Cleaning Process](#data-cleaning-process)  
-7. [Results](#results)  
-8. [Acknowledgments](#Acknowledgments)
+7. [Results](#results) 
+8. [Contribution](#contribution)
+9. [Acknowledgments](#Acknowledgments)
 
 ---
 
@@ -222,6 +228,7 @@ The notebook includes validation checks throughout:
 - Applied realistic constraints to all numerical variables
 
 ---
+## Contribution 
 
 1. **Fork the Repository**: Start by forking the project repository to your LOCAL account.
 2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
@@ -245,15 +252,7 @@ The notebook includes validation checks throughout:
 8. **Review**: Once your PR is reviewed and approved, it will be merged into the main branch. Congratulations on your contribution!
 </details>
 
-<details closed>
-<summary>Contributor Graph</summary>
-<br>
-<p align="left">
-   <a href="https://LOCAL{//Cleandata/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=/Cleandata">
-   </a>
-</p>
-</details>
+
 
 ---
 ## Acknowledgments
