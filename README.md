@@ -3,18 +3,13 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img src=".\image\datacleaning.jpg" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
+<img src=".\image\datacleaning.jpg" width="30%" alt="Project Logo"/>
 
 # CLEANDATA
 
-<em></em>
-
-<!-- BADGES -->
-<!-- local repository, no metadata badges. -->
-
-<em> A comprehensive data cleaning and preprocessing pipeline for student academic data</em>
-
-<em>Built with: Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook</em>
+> 🧹 A comprehensive data cleaning and preprocessing pipeline for **student academic data**  
+<br>
+> 🔧 Built with: Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook  
 
 </div>
 <br>
