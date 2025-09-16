@@ -12,8 +12,9 @@
 <!-- BADGES -->
 <!-- local repository, no metadata badges. -->
 
-<em>Built with the tools and technologies:</em>
+<em> A comprehensive data cleaning and preprocessing pipeline for student academic data</em>
 
+<em>Built with: Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook</em>
 
 </div>
 <br>
