@@ -81,6 +81,7 @@ This project demonstrates a comprehensive data cleaning workflow for student aca
     ├── Cleaned_data.csv
     └── Cleaning Data.ipynb
     └── image/
+    └── bi.csv
 ```
 
 ### Project Index
@@ -107,6 +108,10 @@ This project demonstrates a comprehensive data cleaning workflow for student aca
 				<tr style='border-bottom: 1px solid #eee;'>
 					<td style='padding: 8px;'><b><a href='Cleandata/blob/master/cleaned_data.csv'>cleaned_data.csv</a></b></td>
 					<td style='padding: 8px;'>Final cleaned dataset after preprocessing.</td>
+				</tr>
+				<tr style='border-bottom: 1px solid #eee;'>
+					<td style='padding: 8px;'><b><a href='Cleandata/blob/master/bi.csv'>bi.csv</a></b></td>
+					<td style='padding: 8px;'>Original dataset file used for data cleaning.</td>
 				</tr>
 				<tr style='border-bottom: 1px solid #eee;'>
 					<td style='padding: 8px;'><b><a href='Cleandata/tree/master/image'>image/</a></b></td>
